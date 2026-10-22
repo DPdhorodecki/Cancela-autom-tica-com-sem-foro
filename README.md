@@ -4,9 +4,9 @@
 Trabalho escolar para a feira de ciências do Col. Kennedy
 ---
 ---
-📌Kambam do projeto
+📌Kanbam do projeto
 ---
-[ver kambam📋](https://github.com/users/DPdhorodecki/projects/1)
+[📋ver kanbam](https://github.com/users/DPdhorodecki/projects/1)
 
 ----
 ---
